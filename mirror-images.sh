@@ -1,3 +1,6 @@
+#chmod 750 
+#./mirror-images.sh
+
 #!/usr/bin/env bash
 set -euo pipefail
 
